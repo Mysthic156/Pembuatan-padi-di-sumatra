@@ -31,7 +31,6 @@
 #import library package
 import numpy as np
 import pandas as pd
-import seaborn as sns
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
